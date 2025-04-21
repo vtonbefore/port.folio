@@ -823,8 +823,8 @@ input[type="checkbox"]:checked + .project-title + .project-content {
     </footer>
 
 </body>
-</html>
-<script>
+<html>
+     <script>
     // Contact form submission
 document.getElementById("contactForm").addEventListener("submit", function (event) {
     event.preventDefault(); // Prevent page reload
